@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+.env/
+.venv/
+
+# PyInstaller
+build/
+dist/
+main.spec
+
+# Distribution / packaging
+*.egg-info/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# OneDrive
+~$*
+
+# Logs
+*.log
+
+# icon and other binary files (if you want to keep them, remove these lines)
+# Keep D2Nchanger_icon.ico under source control if you intend to ship icon with repo
+*.ico
+
+
