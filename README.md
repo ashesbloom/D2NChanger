@@ -4,6 +4,8 @@
 
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/ashesbloom)
 [![GitHub downloads](https://img.shields.io/github/downloads/ashesbloom/D2NChanger/total)](https://github.com/ashesbloom/D2NChanger/releases/latest)
+![Hits](https://hits.sh/github.com/ashesbloom/D2NChanger.svg?style=plastic&label=views&color=blue)
+
 
 D2NChanger brings the elegant, time-based wallpaper scheduling found in macOS to the Windows desktop. Windows lacks native support for this kind of seamless, automated wallpaper transition, and this project aims to fill that gap.
 
